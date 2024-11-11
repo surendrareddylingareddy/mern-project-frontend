@@ -1,0 +1,46 @@
+.nav-bar {
+    background-color: grey;
+}
+
+.employee-list-head {
+    height: 32px;
+    background-color: yellow;
+}
+
+.mr-48 {
+    margin-right: 48px;
+}
+
+.search-bar {
+    background-color: rgb(171, 211, 250);
+}
+
+.employee-table {
+    height: 32px;
+    background-color: rgb(171, 211, 250);
+}
+
+
+
+table {
+    width: 100%;                  
+    border-collapse: collapse;    
+  }
+
+.custom-table-border {
+    border: 1px solid #070707;
+    padding: 8px;
+    /* text-align: left; */
+    white-space: nowrap;  
+    overflow: hidden;     
+    text-overflow: ellipsis;  
+}
+  
+.custom-table-margin{
+    margin-top: 32px;
+}
+
+.custom-display{
+    width: 100%;
+}
+

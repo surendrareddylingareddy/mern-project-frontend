@@ -1,0 +1,29 @@
+
+.create-employee-head{
+    height : 32px;
+    background-color: yellow;
+}
+
+.form-container{
+    width: 500px;
+}
+
+.custom-checkbox-margin{
+    margin-right: 16px;
+}
+
+.custom-radio-margin{
+    margin-right: 16px;
+}
+
+.custom-submit-margin{
+    color: rgb(171, 211, 250);
+    margin-top: 32px;
+    margin-left: 250px;
+}
+
+.custom-border {
+    border: 8px solid #000; /* Adjust color as needed */
+    border-radius: 0;      /* Optional: Add border radius if desired */
+  }
+  

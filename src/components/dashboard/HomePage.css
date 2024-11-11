@@ -1,0 +1,23 @@
+.home-container{
+    margin: 0 auto;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+
+.dashboard-head{
+    height: 48px;
+    display: flex;
+    align-items: center;
+    background-color: yellow;
+}
+
+.dashboard-container{
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
